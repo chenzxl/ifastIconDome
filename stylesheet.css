@@ -39,7 +39,7 @@ body {
          only screen and (             min-resolution: 124dpi)
 {
   body {
-    background-image: url("img/ionicons-logo@2x.png");
+    /*background-image: url("img/ionicons-logo@2x.png");*/
     background-size: 110px 67px;
   }
 }
