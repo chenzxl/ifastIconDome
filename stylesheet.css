@@ -24,7 +24,7 @@ time, mark, audio, video {
 
 body {
   box-sizing: border-box;
-  border-top: 1px solid #4F8EF7;
+  /*border-top: 1px solid #4F8EF7;*/
   /*background: url("img/ionicons-logo.png") no-repeat center 65px;*/
   color:#373737;
   text-align: center;
